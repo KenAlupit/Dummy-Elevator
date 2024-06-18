@@ -1,4 +1,4 @@
-# Elevator-Simulator-with-Passenger-Log 
+# Elevator Simulator with Passenger Log 
 
 The "Elevator Simulator with Passenger Log" program simulates the operation of an elevator system. Users can input their name, select a floor destination within a range of 1 to 25, and optionally indicate if they have accompanying passengers. The program tracks each passenger's journey and logs it, displaying the log upon request. It handles scenarios where the elevator operates with or without additional passengers, ensuring a simulated experience of elevator usage in a building setting. This simulation helps understand elevator dynamics and passenger interactions in a controlled environment.
 
